@@ -9,3 +9,5 @@ change:done by teammate
 change: bug2
 
 change: lol
+
+change: new feature added by teammate
