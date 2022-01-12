@@ -12,4 +12,8 @@ change: lol
 
 change: new feature added by teammate
 
+
 change : By teammate on remote master on bug3
+
+change : on local master for WI6
+
