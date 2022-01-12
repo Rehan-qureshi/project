@@ -11,3 +11,5 @@ change: bug2
 change: lol
 
 change: new feature added by teammate
+
+change : By teammate on remote master on bug3
